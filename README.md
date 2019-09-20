@@ -1,2 +1,11 @@
 # pre_commit
-Script 🛡️
+Pre-commit script 🛡️
+
+
+## Installing
+
+```bash
+ln -s pre-commit.sh .git/hooks/pre-commit
+```
+
+🥂
